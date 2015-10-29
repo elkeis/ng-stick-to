@@ -3,7 +3,7 @@
 angular-stick-to components
 ======================
 
-This is a set of angular directives that allows you to add a sticky behavior on your site.
+This is a set of angular directives that allows you to add a sticky behavior on your site. (trigger)
 
 ## angular-stick-to directive
 
